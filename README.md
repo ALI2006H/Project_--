@@ -1,7 +1,11 @@
--- About --
- A script that links healthy habits with a game which contains a character who gains health, attack, and defense in case of 
-doing the healthy habits. After that, you are going to face a monster who will deal damage to you, So make sure that you do these
-healthy habits :)
+# 🎮 Healthy Habits RPG Game
 
--- How it works --
- Run the script , Answer the questions and the game will start !
+A Python text-based script that links healthy daily habits with an RPG game mechanics. 
+
+## 📝 About the Project
+Your character gains **Health**, **Attack**, and **Defense** based on the healthy habits you practice. After setting up your stats, you will face a formidable monster. Make sure you maintain healthy habits to survive the battle!
+
+## 🚀 How It Works
+1. Run the `Project_#1.py` script in your terminal.
+2. Answer the habits-based questions.
+3. Start the battle and defeat the monster!
